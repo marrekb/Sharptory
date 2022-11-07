@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharptory", "Sharptory\Sharptory.csproj", "{A32C20E8-3885-4233-9EDB-958CCE7D48C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32C20E8-3885-4233-9EDB-958CCE7D48C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32C20E8-3885-4233-9EDB-958CCE7D48C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32C20E8-3885-4233-9EDB-958CCE7D48C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32C20E8-3885-4233-9EDB-958CCE7D48C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BD676E2-7554-4A96-9F6C-9F2670955D25}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\bin\Debug\net6.0\Sharptory.deps.json
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\bin\Debug\net6.0\Sharptory.dll
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\bin\Debug\net6.0\Sharptory.pdb
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\Sharptory.csproj.AssemblyReference.cache
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\Sharptory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\Sharptory.AssemblyInfoInputs.cache
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\Sharptory.AssemblyInfo.cs
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\Sharptory.csproj.CoreCompileInputs.cache
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\Sharptory.dll
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\refint\Sharptory.dll
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\Sharptory.pdb
+C:\Users\balaz\Desktop\MyProjects\Sharptory\Sharptory\obj\Debug\net6.0\ref\Sharptory.dll
